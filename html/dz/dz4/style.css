@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
+
+h1 {
+  font-size: 40px;
+  color: #f03333;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+.text {
+  text-align: justify;
+  font-family: 'Dosis', sans-serif
+}
+
+.subtitle {
+  font-size: 30px;
+  color: #12ac11;
+  line-height: 1.2;
+  text-decoration: underline;
+}
+
+.list {
+  font-size: 20px;
+  color: #444;
+  font-style: oblique;
+  list-style-type: square;
+}
+
+.icon {
+  font-size: 60px
+}
